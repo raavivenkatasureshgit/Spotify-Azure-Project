@@ -1,0 +1,9 @@
+{
+	"name": "adf-spotify-dev-cac",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c52c1dd6-6fa7-42b4-86f9-084e3db7ea58",
+		"tenantId": "ff889bb5-36ea-4506-97e0-bcd37dfae050"
+	}
+}
