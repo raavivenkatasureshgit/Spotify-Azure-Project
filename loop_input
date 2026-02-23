@@ -1,0 +1,36 @@
+[  
+   {
+     "shcema": dbo,
+     "table" : DimUser",
+     "cdc_col": updated_at
+     "from_date": ""
+   },
+
+   {
+     "shcema": dbo,
+     "table" : DimArtist",
+     "cdc_col": updated_at
+     "from_date": ""
+   },
+
+   {
+     "shcema": dbo,
+     "table" : DimTrack",
+     "cdc_col": updated_at
+     "from_date": ""
+   },
+
+   {
+     "shcema": dbo,
+     "table" : DimDate",
+     "cdc_col": updated_at
+     "from_date": ""
+   },
+
+   {
+     "shcema": dbo,
+     "table" : FactStream",
+     "cdc_col": updated_at
+     "from_date": ""
+   }
+]
